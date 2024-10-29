@@ -1,0 +1,47 @@
+[
+    {
+        "email":"{{emil}}",
+        "password":"{{password}}",
+        "fullname":"Komron mamataliyev",
+        "age":20,
+        "gender":"MALE",
+        "phone":"+99888888888",
+        "card":"9860 6004 0283 5984"
+    },
+    {
+        "email":"{{emil}}",
+        "password":"{{password}}",
+        "fullname":"ali",
+        "age":10,
+        "gender":"MALE",
+        "phone":"+99888888888",
+        "card":"9860 6004 0283 5984"
+    },
+    {
+        "email":"{{emil}}",
+        "password":"{{password}}",
+        "fullname":"sherali",
+        "age":16,
+        "gender":"MALE",
+        "phone":"+99888888888",
+        "card":"9860 6004 0283 8975"
+    },
+    {
+        "email":"{{emil}}",
+        "password":"{{password}}",
+        "fullname":"alisher",
+        "age":20,
+        "gender":"MALE",
+        "phone":"+99888886688",
+        "card":"1234 4567 0283 5984"
+    },
+    {
+        "email":"{{emil}}",
+        "password":"{{password}}",
+        "fullname":"alijon",
+        "age":20,
+        "gender":"MALE",
+        "phone":"+998999999999",
+        "card":"1234 5678 9010 1112"
+    }             
+]
